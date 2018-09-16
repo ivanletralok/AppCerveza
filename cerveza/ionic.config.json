@@ -1,0 +1,7 @@
+{
+  "name": "cerveza",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
